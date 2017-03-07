@@ -5,7 +5,7 @@ This [data set](http://stat-computing.org/dataexpo/2009/the-data.html) contains 
 
 ## Summary
 
-This interactive visualization shows the how flights of top 5 busiest carriers delayed in 2008 in United States by time. The daily metric is the ratio of flights delayed more than 15 minutes each day. The monthly metric is the mean of flights delayed > 15mins per day by month.
+This interactive visualization shows the how flights of top 5 busiest carriers delayed in 2008 in United States by time. Flights are more likely to to delay in winter and in June. The peak of the year is before and after Christmas. US Airways seems to be great in time management.
 
 ## Design
 
